@@ -1,0 +1,107 @@
+[
+  {
+    "name": "@dnd-kit/core",
+    "version": "6.3.1",
+    "license": "MIT"
+  },
+  {
+    "name": "@dnd-kit/sortable",
+    "version": "10.0.0",
+    "license": "MIT"
+  },
+  {
+    "name": "@dnd-kit/utilities",
+    "version": "3.2.2",
+    "license": "MIT"
+  },
+  {
+    "name": "@emotion/cache",
+    "version": "11.14.0",
+    "license": "MIT"
+  },
+  {
+    "name": "@emotion/react",
+    "version": "11.14.0",
+    "license": "MIT"
+  },
+  {
+    "name": "@emotion/styled",
+    "version": "11.14.1",
+    "license": "MIT"
+  },
+  {
+    "name": "@fontsource/vazirmatn",
+    "version": "5.3.0",
+    "license": "OFL-1.1"
+  },
+  {
+    "name": "@hookform/resolvers",
+    "version": "5.9.2",
+    "license": "MIT"
+  },
+  {
+    "name": "@mui/icons-material",
+    "version": "7.3.11",
+    "license": "MIT"
+  },
+  {
+    "name": "@mui/material",
+    "version": "7.3.11",
+    "license": "MIT"
+  },
+  {
+    "name": "@mui/stylis-plugin-rtl",
+    "version": "7.3.10",
+    "license": "MIT"
+  },
+  {
+    "name": "@mui/x-date-pickers",
+    "version": "8.29.5",
+    "license": "MIT"
+  },
+  {
+    "name": "date-fns-jalali",
+    "version": "4.0.0-0",
+    "license": "MIT"
+  },
+  {
+    "name": "react",
+    "version": "19.3.1",
+    "license": "MIT"
+  },
+  {
+    "name": "react-dom",
+    "version": "19.3.1",
+    "license": "MIT"
+  },
+  {
+    "name": "react-hook-form",
+    "version": "7.91.0",
+    "license": "MIT"
+  },
+  {
+    "name": "react-router-dom",
+    "version": "7.18.5",
+    "license": "MIT"
+  },
+  {
+    "name": "recharts",
+    "version": "3.10.1",
+    "license": "MIT"
+  },
+  {
+    "name": "stylis",
+    "version": "4.4.0",
+    "license": "MIT"
+  },
+  {
+    "name": "zod",
+    "version": "4.6.7",
+    "license": "MIT"
+  },
+  {
+    "name": "zustand",
+    "version": "5.0.16",
+    "license": "MIT"
+  }
+]
