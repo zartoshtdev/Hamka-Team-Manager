@@ -12,7 +12,15 @@ Designed with a beautiful RTL interface, powerful task management features, and 
 
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zartoshtdev/Hamka-Team-Manager)
 
-**🌐 Live Demo:** Coming Soon — Netlify Deployment
+### 🌐 Live Application
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Launch_App-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hamkar-team-manager.netlify.app/)
+
+[![Netlify](https://img.shields.io/badge/Deployed_on-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://hamkar-team-manager.netlify.app/)
+
+**Experience Hamkar Team Manager live:**
+
+[hamkar-team-manager.netlify.app](https://hamkar-team-manager.netlify.app/)
 
 <br/>
 
